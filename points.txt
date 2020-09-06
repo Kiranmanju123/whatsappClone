@@ -1,0 +1,19 @@
+npm install -g firebase-tools
+
+ctrl+space to import a component
+
+
+reactui a readymade component and icons too
+
+
+    display: grid;
+    place-items: center;  //Used to center all the child element both vertically and horizontally
+
+
+useEffect() is  a hook in react it runs some code when componenet loads
+
+.chat_header_icon {
+    display: flex;
+    justify-content: space-between;
+    min-width: px;
+}
